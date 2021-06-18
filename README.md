@@ -1,5 +1,14 @@
-### Hi there 👋
+# Olá 👋
 
+🤙 Me chamo Risoaldo Nóbrega, formado em Análise e Desenvolvimento de Sistemas pela UNIVS - Centro Universitário Vale do Salgado.
+
+💡⁣⁣⁣ Apaixonado por tecnologia e empreendedorismo, sempre buscando aprender mais nesse infinito mundo que é a **programação**.
+
+
+☕⁣⁣⁣ Redes Sociais
+<a href="https://linkedin.com/in/risoaldo" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/risoaldo" alt="risaoldo"/></a> 
+
+**risoaldo/risoaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 **risoaldo/risoaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
