@@ -8,7 +8,6 @@
 ☕⁣⁣⁣ Redes Sociais
 <a href="https://linkedin.com/in/risoaldo" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/risoaldo" alt="risaoldo"/></a> 
 
-**risoaldo/risoaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 **risoaldo/risoaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
